@@ -6,11 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 # Project 1
+https://github.com/UO-CIT-routing811/cit281-p-1
 # Project 2
+https://github.com/UO-CIT-routing811/cit281-p-2
 # Project 3
+https://github.com/UO-CIT-routing811/cit281-p-3
 # Project 4
+https://github.com/UO-CIT-routing811/cit281-p-4
 # Project 5
+https://github.com/UO-CIT-routing811/cit281-p-5
 # Project 6
+https://github.com/UO-CIT-routing811/cit281-p-6
 # Project 7
 
 # lab 1
