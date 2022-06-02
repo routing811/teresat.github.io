@@ -5,38 +5,38 @@ You can use the [editor on GitHub](https://github.com/routing811/teresat.github.
 ### Contents for CIT281 Spring2022!
 
 # Projects
-[Project 1](https://github.com/UO-CIT-routing811/cit281-p-1)
+* [Project 1](https://github.com/UO-CIT-routing811/cit281-p-1)
 <br/>
-[Project 2](https://github.com/UO-CIT-routing811/cit281-p-2)
+* [Project 2](https://github.com/UO-CIT-routing811/cit281-p-2)
 <br/>
-[Project 3](https://github.com/UO-CIT-routing811/cit281-p-3)
+* [Project 3](https://github.com/UO-CIT-routing811/cit281-p-3)
 <br/>
-[Project 4](https://github.com/UO-CIT-routing811/cit281-p-4)
+* [Project 4](https://github.com/UO-CIT-routing811/cit281-p-4)
 <br/>
-[Project 5](https://github.com/UO-CIT-routing811/cit281-p-5)
+* [Project 5](https://github.com/UO-CIT-routing811/cit281-p-5)
 <br/>
-[Project 6](https://github.com/UO-CIT-routing811/cit281-p-6)
+* [Project 6](https://github.com/UO-CIT-routing811/cit281-p-6)
 <br/>
-[Project 7](https://github.com/UO-CIT-routing811/cit281-p-7)
+* [Project 7](https://github.com/UO-CIT-routing811/cit281-p-7)
 
 # Labs
-[lab 1](https://github.com/UO-CIT-routing811/cit281-lab-1)
+* [lab 1](https://github.com/UO-CIT-routing811/cit281-lab-1)
 <br/>
-[lab 2](https://github.com/UO-CIT-routing811/cit281-lab-2)
+* [lab 2](https://github.com/UO-CIT-routing811/cit281-lab-2)
 <br/>
-[lab 3](https://github.com/UO-CIT-routing811/cit281-lab-3)
+* [lab 3](https://github.com/UO-CIT-routing811/cit281-lab-3)
 <br/>
-[lab 4](https://github.com/UO-CIT-routing811/cit281-lab-4)
+* [lab 4](https://github.com/UO-CIT-routing811/cit281-lab-4)
 <br/>
-[lab 5](https://github.com/UO-CIT-routing811/cit281-lab-5)
+* [lab 5](https://github.com/UO-CIT-routing811/cit281-lab-5)
 <br/>
-[lab 6](https://github.com/UO-CIT-routing811/cit281-lab-6)
+* [lab 6](https://github.com/UO-CIT-routing811/cit281-lab-6)
 <br/>
-[lab 7](https://github.com/UO-CIT-routing811/cit281-lab-7)
+* [lab 7](https://github.com/UO-CIT-routing811/cit281-lab-7)
 <br/>
-[lab 8](https://github.com/UO-CIT-routing811/cit281-lab-8)
+* [lab 8](https://github.com/UO-CIT-routing811/cit281-lab-8)
 <br/>
-[lab 9](https://github.com/UO-CIT-routing811/cit281-lab-9)
+* [lab 9](https://github.com/UO-CIT-routing811/cit281-lab-9)
 
 
 
