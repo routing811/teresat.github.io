@@ -1,4 +1,5 @@
 ## Welcome to Teresa's GitHub Pages
+![This is an image](file:///Users/teresa/Downloads/logo_github_icon_143196.svg)
 
 You can use the [editor on GitHub](https://github.com/routing811/teresat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
