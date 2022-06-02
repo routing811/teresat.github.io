@@ -18,16 +18,26 @@ https://github.com/UO-CIT-routing811/cit281-p-5
 # Project 6
 https://github.com/UO-CIT-routing811/cit281-p-6
 # Project 7
+https://github.com/UO-CIT-routing811/cit281-p-7
 
 # lab 1
+https://github.com/UO-CIT-routing811/cit281-lab-1
 # lab 2
+https://github.com/UO-CIT-routing811/cit281-lab-2
 # lab 3
+https://github.com/UO-CIT-routing811/cit281-lab-3
 # lab 4
+https://github.com/UO-CIT-routing811/cit281-lab-4
 # lab 5
+https://github.com/UO-CIT-routing811/cit281-lab-5
 # lab 6
+https://github.com/UO-CIT-routing811/cit281-lab-6
 # lab 7
+https://github.com/UO-CIT-routing811/cit281-lab-7
 # lab 8
+https://github.com/UO-CIT-routing811/cit281-lab-8
 # lab 9
+https://github.com/UO-CIT-routing811/cit281-lab-9
 
 
 
