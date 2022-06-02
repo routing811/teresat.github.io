@@ -5,8 +5,8 @@ You can use the [editor on GitHub](https://github.com/routing811/teresat.github.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-# Project 1
-[https://github.com/UO-CIT-routing811/cit281-p-1]
+# Projects
+[Project 1](https://github.com/UO-CIT-routing811/cit281-p-1)
 # Project 2
 (https://github.com/UO-CIT-routing811/cit281-p-2)
 # Project 3
