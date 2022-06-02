@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/routing811/teresat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Contents for CIT281 Spring2022!
+### Contents for CIT281 Spring2022!
 
 # Projects
 [Project 1](https://github.com/UO-CIT-routing811/cit281-p-1)
