@@ -6,9 +6,8 @@ You can use the [editor on GitHub](https://github.com/routing811/teresat.github.
 ### Contents for CIT281 Spring2022!
 
 # Projects
-* [Project 1](https://uo-cit-routing811.github.io/cit281-p-1/)
-<br/>
-* [Project 2](https://uo-cit-routing811.github.io/cit281-p-2/)
+[Project 1](https://uo-cit-routing811.github.io/cit281-p-1/)
+[Project 2](https://uo-cit-routing811.github.io/cit281-p-2/)
 <br/>
 * [Project 3](https://uo-cit-routing811.github.io/cit281-p-3/)
 <br/>
