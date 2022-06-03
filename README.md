@@ -6,36 +6,23 @@ You can use the [editor on GitHub](https://github.com/routing811/teresat.github.
 ### Contents for CIT281 Spring2022!
 
 # Projects
-[Project 1](https://uo-cit-routing811.github.io/cit281-p-1/)
-[Project 2](https://uo-cit-routing811.github.io/cit281-p-2/)
-<br/>
+* [Project 1](https://uo-cit-routing811.github.io/cit281-p-1/)
+* [Project 2](https://uo-cit-routing811.github.io/cit281-p-2/)
 * [Project 3](https://uo-cit-routing811.github.io/cit281-p-3/)
-<br/>
 * [Project 4](https://uo-cit-routing811.github.io/cit281-p-4/)
-<br/>
 * [Project 5](https://uo-cit-routing811.github.io/cit281-p-5/)
-<br/>
 * [Project 6](https://uo-cit-routing811.github.io/cit281-p-6/)
-<br/>
 * [Project 7](https://uo-cit-routing811.github.io/cit281-p-7/)
 
 # Labs
 * [lab 1](https://uo-cit-routing811.github.io/cit281-lab-1/)
-<br/>
 * [lab 2](https://uo-cit-routing811.github.io/cit281-lab-2/)
-<br/>
 * [lab 3](https://uo-cit-routing811.github.io/cit281-lab-3/)
-<br/>
 * [lab 4](https://uo-cit-routing811.github.io/cit281-lab-4/)
-<br/>
 * [lab 5](https://uo-cit-routing811.github.io/cit281-lab-5/)
-<br/>
 * [lab 6](https://uo-cit-routing811.github.io/cit281-lab-6/)
-<br/>
 * [lab 7](https://uo-cit-routing811.github.io/cit281-lab-7/)
-<br/>
 * [lab 8](https://uo-cit-routing811.github.io/cit281-lab-8/)
-<br/>
 * [lab 9](https://uo-cit-routing811.github.io/cit281-lab-9/)
 
 
