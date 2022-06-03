@@ -1,5 +1,6 @@
 ## Welcome to Teresa's GitHub Pages
-Teresa Tseng, University of Oregon
+Author: Teresa Tseng, Junior, University of Oregon
+Professor: Phil Colbert
 
 ### Contents for CIT281 Spring2022!
 
